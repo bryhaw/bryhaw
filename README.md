@@ -17,7 +17,7 @@ I'm building [Cedar Sky Labs](https://cedarskylabs.com), where I help companies 
 
 ### About Me
 
-- 🎮 **Director of AI at Minecraft** — shipping AI-powered features to one of the most-played games on the planet
+- 🎮 **Director of AI at Minecraft** — shipping AI-powered features to one of the most-played games on the planet, while owning the strategy, internal tooling, and enablement for AI across the organization
 
 - 🏢 Founder of **[Cedar Sky Labs](https://cedarskylabs.com)** — AI consulting for businesses that want to move from "exploring AI" to actually running it
 
