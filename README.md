@@ -24,3 +24,6 @@ I'm building [Cedar Sky Labs](https://cedarskylabs.com), where I help companies 
 - 🌲 Based in Seattle Area — building things from the Pacific Northwest
 
 - 💬 Always happy to talk AI strategy, product, or anything you're building. Reach out anytime.
+
+---
+*Views, projects, and opinions are my own and do not represent my employer.*
