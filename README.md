@@ -27,3 +27,4 @@ I'm building [Cedar Sky Labs](https://cedarskylabs.com), where I help companies 
 
 ---
 *Views, projects, and opinions are my own and do not represent my employer.*
+
