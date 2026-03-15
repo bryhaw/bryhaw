@@ -21,6 +21,6 @@ I'm building [Cedar Sky Labs](https://cedarskylabs.com), where I help companies 
 
 - 🏢 Founder of **[Cedar Sky Labs](https://cedarskylabs.com)** — AI consulting for businesses that want to move from "exploring AI" to actually running it
 
-- 🌲 Based in Duvall, WA — building things from the Pacific Northwest
+- 🌲 Based in Seattle Area — building things from the Pacific Northwest
 
 - 💬 Always happy to talk AI strategy, product, or anything you're building. Reach out anytime.
