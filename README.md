@@ -4,8 +4,6 @@ I build AI systems that work at scale — and share what I learn along the way.
 
 Most of my work is hands-on: real products, real users, and practical AI that solves problems people actually have. I focus on where AI meets creativity, education, and everyday workflows.
 
-I'm building [Cedar Sky Labs](https://cedarskylabs.com), where I help companies identify where AI can automate the time-consuming work and free their teams to focus on what matters.
-
 ### What I work on
 
 - 🤖 **AI Agents**: multi-agent pipelines, dynamic teams, tool-calling, memory systems
@@ -19,7 +17,7 @@ I'm building [Cedar Sky Labs](https://cedarskylabs.com), where I help companies 
 
 - 🎮 **Director of AI at Minecraft** — shipping AI-powered features to one of the most-played games on the planet, while owning the strategy, internal tooling, and enablement for AI across the organization
 
-- 🏢 Founder of **[Cedar Sky Labs](https://cedarskylabs.com)** — AI consulting for businesses that want to move from "exploring AI" to actually running it
+- 🏢 Founder of **[Cedar Sky Labs](https://cedarskylabs.com)** — Education and AI consulting for businesses that want to move from "exploring AI" to actually running it
 
 - 🌲 Based in Seattle Area — building things from the Pacific Northwest
 
